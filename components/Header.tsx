@@ -21,14 +21,14 @@ const Header: React.FC<HeaderProps> = ({ cartCount, onCartClick, onShopNow }) =>
                 <img 
                   alt="Damroo Logo" 
                   className="h-full w-auto object-contain" 
-                  src="public/pictures/logohindi.png" 
+                  src="https://github.com/satyam-sh-git/Web-dev/blob/main/assets/logohindi.png?raw=true" 
                 />
               </div>
               <div className="flex flex-col leading-none relative h-14 w-auto">
                 <img 
                   alt="Damroo Churan Text" 
                   className="h-[40px] w-auto object-contain pt-4" 
-                  src="public/pictures/headerlgo.png" 
+                  src="https://github.com/satyam-sh-git/Web-dev/blob/main/assets/fotterlogo.png?raw=true"
                 />
               </div>
             </div>
